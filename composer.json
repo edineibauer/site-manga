@@ -1,6 +1,6 @@
 {
   "name": "conn/site-manga",
-  "description": "Aite de Manga",
+  "description": "Site de Manga",
   "type": "library",
   "license": "MIT",
   "prefer-stable" : true,
