@@ -1,0 +1,53 @@
+.manga-content {
+    max-width: 1200px;
+    width: 100%;
+    float: initial;
+    margin: auto;
+}
+
+.manga-content-card {
+    margin-top: -80px;
+    padding: 20px;
+}
+
+.menu-mini {
+    display: none;
+}
+
+.leitor-content {
+    padding-left: 0!important;
+    padding-right: 0!important;
+}
+
+.div-nav {
+    padding-left: 20px!important;
+    padding-right: 20px!important;
+}
+
+@media (min-width: 992px) {
+    .header-mini {
+        width: calc(100% - 60px);
+    }
+
+    #manga-capitulo {
+        padding-right: 30px;
+    }
+
+    .manga-episodio {
+        padding-right: 15px;
+    }
+
+    .menu-mini {
+        display: inline-block;
+    }
+
+    .leitor-content {
+        padding-left: 20px!important;
+        padding-right: 20px!important;
+    }
+
+    .div-nav {
+        padding-left: 0!important;
+        padding-right: 0!important;
+    }
+}
